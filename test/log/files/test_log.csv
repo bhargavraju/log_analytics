@@ -1,0 +1,2 @@
+timestamp,url,method,response_time,response_code
+1581589077,/book/74/return,GET,45,200
